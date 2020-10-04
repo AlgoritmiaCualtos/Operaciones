@@ -16,16 +16,16 @@ int main()
     scanf("%d",&y);
 
     resultado = x + y;
-    printf("El resultado de la suma es: %d,\n",resultado);
+    printf("El resultado de la suma es: %d\n",resultado);
 
     resultado = x - y;
-    printf("El resultado de la resta es: %d,\n",resultado);
+    printf("El resultado de la resta es: %d\n",resultado);
 
     resultado = x * y;
-    printf("El resultado de la multiplicacion es: %d,\n",resultado);
+    printf("El resultado de la multiplicacion es: %d\n",resultado);
 
     cociente = x / y;
-    printf("El resultado de la division es: %lf,\n",cociente);
+    printf("El resultado de la division es: %lf\n",cociente);
 
 return 0;
 }
